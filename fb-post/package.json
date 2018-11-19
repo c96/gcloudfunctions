@@ -1,0 +1,7 @@
+{
+  "name": "cloud-capstone",
+  "version": "0.0.1",
+  "dependencies": {
+    "fb": "2.0.0"
+  }
+}
